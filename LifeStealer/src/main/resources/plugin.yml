@@ -1,0 +1,6 @@
+name: LifeStealer
+version: '${project.version}'
+main: me.eranspigel.lifestealer.LifeStealer
+api-version: '1.20'
+commands:
+  opEnchantment:
